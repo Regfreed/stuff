@@ -1,0 +1,8 @@
+F:\Visual Studio\CarClassLibrary\bin\Debug\netstandard2.0\CarClassLibrary.deps.json
+F:\Visual Studio\CarClassLibrary\bin\Debug\netstandard2.0\CarClassLibrary.dll
+F:\Visual Studio\CarClassLibrary\bin\Debug\netstandard2.0\CarClassLibrary.pdb
+F:\Visual Studio\CarClassLibrary\obj\Debug\netstandard2.0\CarClassLibrary.AssemblyInfoInputs.cache
+F:\Visual Studio\CarClassLibrary\obj\Debug\netstandard2.0\CarClassLibrary.AssemblyInfo.cs
+F:\Visual Studio\CarClassLibrary\obj\Debug\netstandard2.0\CarClassLibrary.dll
+F:\Visual Studio\CarClassLibrary\obj\Debug\netstandard2.0\CarClassLibrary.pdb
+F:\Visual Studio\CarClassLibrary\obj\Debug\netstandard2.0\CarClassLibrary.csprojAssemblyReference.cache

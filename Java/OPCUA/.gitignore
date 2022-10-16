@@ -1,0 +1,13 @@
+build/
+tmp/
+javadoc/
+bin/
+/test-output
+/target/
+
+/TestCA_https.der
+/TestCA.der
+/TestCert_https.der
+/TestCert.der
+/TestKey_https.pem
+/TestKey.pem

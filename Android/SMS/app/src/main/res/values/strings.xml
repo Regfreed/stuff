@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="broj">Broj:</string>
+    <string name="poruka">Poruka</string>
+    <string name="btn_posalji">Pošalji</string>
+    <string name="poslana_poruka">Poslana poruka:</string>
+    <string name="primljena_poruka">Primljena poruka:</string>
+    <string name="btn_prikazi">PRIKAŽI/SAKRIJ AKCIJSKU TRAKU</string>
+    <string name="hint">Primjer poslane poruke treba se prikazati u ovom dijelu. Tekst poruke koja se šalje ne smije biti duži od 160 znakova.</string>
+</resources>

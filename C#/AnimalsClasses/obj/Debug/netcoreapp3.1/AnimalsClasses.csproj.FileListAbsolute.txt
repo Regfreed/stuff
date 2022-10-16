@@ -1,0 +1,11 @@
+F:\Visual Studio\AnimalsClasses\bin\Debug\netcoreapp3.1\AnimalsClasses.exe
+F:\Visual Studio\AnimalsClasses\bin\Debug\netcoreapp3.1\AnimalsClasses.deps.json
+F:\Visual Studio\AnimalsClasses\bin\Debug\netcoreapp3.1\AnimalsClasses.runtimeconfig.json
+F:\Visual Studio\AnimalsClasses\bin\Debug\netcoreapp3.1\AnimalsClasses.runtimeconfig.dev.json
+F:\Visual Studio\AnimalsClasses\bin\Debug\netcoreapp3.1\AnimalsClasses.dll
+F:\Visual Studio\AnimalsClasses\bin\Debug\netcoreapp3.1\AnimalsClasses.pdb
+F:\Visual Studio\AnimalsClasses\obj\Debug\netcoreapp3.1\AnimalsClasses.csprojAssemblyReference.cache
+F:\Visual Studio\AnimalsClasses\obj\Debug\netcoreapp3.1\AnimalsClasses.AssemblyInfoInputs.cache
+F:\Visual Studio\AnimalsClasses\obj\Debug\netcoreapp3.1\AnimalsClasses.AssemblyInfo.cs
+F:\Visual Studio\AnimalsClasses\obj\Debug\netcoreapp3.1\AnimalsClasses.dll
+F:\Visual Studio\AnimalsClasses\obj\Debug\netcoreapp3.1\AnimalsClasses.pdb

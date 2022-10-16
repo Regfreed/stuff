@@ -1,0 +1,9 @@
+C:\Users\Matej\source\repos\CarShopGui\bin\Debug\CarShopGui.exe.config
+C:\Users\Matej\source\repos\CarShopGui\bin\Debug\CarShopGui.exe
+C:\Users\Matej\source\repos\CarShopGui\bin\Debug\CarShopGui.pdb
+C:\Users\Matej\source\repos\CarShopGui\obj\Debug\CarShopGui.csprojAssemblyReference.cache
+C:\Users\Matej\source\repos\CarShopGui\obj\Debug\CarShopGui.Form1.resources
+C:\Users\Matej\source\repos\CarShopGui\obj\Debug\CarShopGui.Properties.Resources.resources
+C:\Users\Matej\source\repos\CarShopGui\obj\Debug\CarShopGui.csproj.GenerateResource.cache
+C:\Users\Matej\source\repos\CarShopGui\obj\Debug\CarShopGui.exe
+C:\Users\Matej\source\repos\CarShopGui\obj\Debug\CarShopGui.pdb

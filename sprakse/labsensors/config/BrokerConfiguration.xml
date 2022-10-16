@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf:BrokerConfig
+	xmlns:conf="http://www.siemens.hr/cvc/labsensors/configuration/sensorConfiguration"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.siemens.hr/cvc/labsensors/configuration/sensorConfiguration ../src/hr/siemens/cvc/labsensors/schema/brokerConfiguration.xsd ">
+	<conf:Protocol>
+		<conf:Name>MQTT</conf:Name>
+		<conf:protocolSpec>
+			<conf:ServerIp>conf:ServerIp</conf:ServerIp>
+			<conf:ServerPort>0</conf:ServerPort>
+			<conf:Username>conf:Username</conf:Username>
+			<conf:Password>conf:Password</conf:Password>
+		</conf:protocolSpec>
+	</conf:Protocol>
+	<conf:Protocol>
+		<conf:Name>AMQP</conf:Name>
+		<conf:protocolSpec>
+			<conf:ServerIp>conf:ServerIp</conf:ServerIp>
+			<conf:ServerPort>0</conf:ServerPort>
+			<conf:Username>conf:Username</conf:Username>
+			<conf:Password>conf:Password</conf:Password>
+		</conf:protocolSpec>
+	</conf:Protocol>
+	<conf:Protocol>
+		<conf:Name>OPCUA</conf:Name>
+		<conf:protocolSpec>
+			<conf:ServerIp>conf:ServerIp</conf:ServerIp>
+			<conf:ServerPort>0</conf:ServerPort>
+			<conf:Username>conf:Username</conf:Username>
+			<conf:Password>conf:Password</conf:Password>
+		</conf:protocolSpec>
+	</conf:Protocol>
+</conf:BrokerConfig>

@@ -1,0 +1,7 @@
+F:\Visual Studio\Number gusser\obj\Debug\Number gusser.csprojAssemblyReference.cache
+F:\Visual Studio\Number gusser\bin\Debug\Number gusser.exe.config
+F:\Visual Studio\Number gusser\bin\Debug\Number gusser.exe
+F:\Visual Studio\Number gusser\bin\Debug\Number gusser.pdb
+F:\Visual Studio\Number gusser\obj\Debug\Number gusser.exe
+F:\Visual Studio\Number gusser\obj\Debug\Number gusser.pdb
+F:\Visual Studio\Number gusser\obj\Debug\Number gusser.csproj.CoreCompileInputs.cache

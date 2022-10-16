@@ -1,0 +1,13 @@
+F:\Visual Studio\ChessGui\ChessBoardGUI\obj\Debug\ChessBoardGUI.csprojAssemblyReference.cache
+F:\Visual Studio\ChessGui\ChessBoardGUI\obj\Debug\ChessBoardGUI.Form1.resources
+F:\Visual Studio\ChessGui\ChessBoardGUI\obj\Debug\ChessBoardGUI.Properties.Resources.resources
+F:\Visual Studio\ChessGui\ChessBoardGUI\obj\Debug\ChessBoardGUI.csproj.GenerateResource.cache
+F:\Visual Studio\ChessGui\ChessBoardGUI\obj\Debug\ChessBoardGUI.csproj.CoreCompileInputs.cache
+F:\Visual Studio\ChessGui\ChessBoardGUI\bin\Debug\ChessBoardGUI.exe.config
+F:\Visual Studio\ChessGui\ChessBoardGUI\bin\Debug\ChessBoardGUI.exe
+F:\Visual Studio\ChessGui\ChessBoardGUI\bin\Debug\ChessBoardGUI.pdb
+F:\Visual Studio\ChessGui\ChessBoardGUI\bin\Debug\ChessBoardModel.dll
+F:\Visual Studio\ChessGui\ChessBoardGUI\bin\Debug\ChessBoardModel.pdb
+F:\Visual Studio\ChessGui\ChessBoardGUI\obj\Debug\ChessBoardGUI.csproj.CopyComplete
+F:\Visual Studio\ChessGui\ChessBoardGUI\obj\Debug\ChessBoardGUI.exe
+F:\Visual Studio\ChessGui\ChessBoardGUI\obj\Debug\ChessBoardGUI.pdb

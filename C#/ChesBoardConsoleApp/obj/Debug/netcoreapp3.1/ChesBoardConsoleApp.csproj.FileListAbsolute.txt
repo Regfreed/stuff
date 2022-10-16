@@ -1,0 +1,16 @@
+F:\Visual Studio\ChesBoardConsoleApp\bin\Debug\netcoreapp3.1\ChesBoardConsoleApp.exe
+F:\Visual Studio\ChesBoardConsoleApp\bin\Debug\netcoreapp3.1\ChesBoardConsoleApp.deps.json
+F:\Visual Studio\ChesBoardConsoleApp\bin\Debug\netcoreapp3.1\ChesBoardConsoleApp.runtimeconfig.json
+F:\Visual Studio\ChesBoardConsoleApp\bin\Debug\netcoreapp3.1\ChesBoardConsoleApp.runtimeconfig.dev.json
+F:\Visual Studio\ChesBoardConsoleApp\bin\Debug\netcoreapp3.1\ChesBoardConsoleApp.dll
+F:\Visual Studio\ChesBoardConsoleApp\bin\Debug\netcoreapp3.1\ChesBoardConsoleApp.pdb
+F:\Visual Studio\ChesBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardModel.dll
+F:\Visual Studio\ChesBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardModel.pdb
+F:\Visual Studio\ChesBoardConsoleApp\obj\Debug\netcoreapp3.1\ChesBoardConsoleApp.csprojAssemblyReference.cache
+F:\Visual Studio\ChesBoardConsoleApp\obj\Debug\netcoreapp3.1\ChesBoardConsoleApp.AssemblyInfoInputs.cache
+F:\Visual Studio\ChesBoardConsoleApp\obj\Debug\netcoreapp3.1\ChesBoardConsoleApp.AssemblyInfo.cs
+F:\Visual Studio\ChesBoardConsoleApp\obj\Debug\netcoreapp3.1\ChesBoardConsoleApp.csproj.CopyComplete
+F:\Visual Studio\ChesBoardConsoleApp\obj\Debug\netcoreapp3.1\ChesBoardConsoleApp.dll
+F:\Visual Studio\ChesBoardConsoleApp\obj\Debug\netcoreapp3.1\ChesBoardConsoleApp.pdb
+F:\Visual Studio\ChesBoardConsoleApp\obj\Debug\netcoreapp3.1\ChesBoardConsoleApp.csproj.CoreCompileInputs.cache
+F:\Visual Studio\ChesBoardConsoleApp\obj\Debug\netcoreapp3.1\ChesBoardConsoleApp.genruntimeconfig.cache

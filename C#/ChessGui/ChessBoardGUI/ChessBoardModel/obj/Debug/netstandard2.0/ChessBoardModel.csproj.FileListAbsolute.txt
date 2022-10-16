@@ -1,0 +1,16 @@
+F:\Visual Studio\ChessBoardModel\bin\Debug\netstandard2.0\ChessBoardModel.deps.json
+F:\Visual Studio\ChessBoardModel\bin\Debug\netstandard2.0\ChessBoardModel.dll
+F:\Visual Studio\ChessBoardModel\bin\Debug\netstandard2.0\ChessBoardModel.pdb
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.csprojAssemblyReference.cache
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.AssemblyInfoInputs.cache
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.AssemblyInfo.cs
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.dll
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.pdb
+F:\Visual Studio\ChessGui\ChessBoardGUI\ChessBoardModel\bin\Debug\netstandard2.0\ChessBoardModel.deps.json
+F:\Visual Studio\ChessGui\ChessBoardGUI\ChessBoardModel\bin\Debug\netstandard2.0\ChessBoardModel.dll
+F:\Visual Studio\ChessGui\ChessBoardGUI\ChessBoardModel\bin\Debug\netstandard2.0\ChessBoardModel.pdb
+F:\Visual Studio\ChessGui\ChessBoardGUI\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.csproj.CoreCompileInputs.cache
+F:\Visual Studio\ChessGui\ChessBoardGUI\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.AssemblyInfoInputs.cache
+F:\Visual Studio\ChessGui\ChessBoardGUI\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.AssemblyInfo.cs
+F:\Visual Studio\ChessGui\ChessBoardGUI\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.dll
+F:\Visual Studio\ChessGui\ChessBoardGUI\ChessBoardModel\obj\Debug\netstandard2.0\ChessBoardModel.pdb

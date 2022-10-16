@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ŠahConsoleApp/1.0.0": {
+        "dependencies": {
+          "ModelŠahovnice": "1.0.0"
+        },
+        "runtime": {
+          "ŠahConsoleApp.dll": {}
+        }
+      },
+      "ModelŠahovnice/1.0.0": {
+        "runtime": {
+          "ModelŠahovnice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ŠahConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelŠahovnice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

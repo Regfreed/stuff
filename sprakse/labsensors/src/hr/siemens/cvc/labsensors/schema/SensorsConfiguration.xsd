@@ -1,0 +1,81 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:conf="http://www.siemens.hr/cvc/labsensors/configuration/sensorConfiguration"
+	targetNamespace="http://www.siemens.hr/cvc/labsensors/configuration/sensorConfiguration"
+	elementFormDefault="qualified" version="1.0">
+	<xs:element name="SensorConfiguration">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Sensor" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Name">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Protocal">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Topic">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="QPS">
+								<xs:simpleType>
+									<xs:restriction base="xs:int">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="MaxQ">
+								<xs:simpleType>
+									<xs:restriction base="xs:long">
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="DataElements" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="ElementName">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="ElementType">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="valid">
+											<xs:simpleType>
+												<xs:restriction base="xs:int">
+													<xs:minInclusive value="0" />
+													<xs:maxInclusive value="100" />
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="invalid">
+											<xs:simpleType>
+												<xs:restriction base="xs:int">
+													<xs:minInclusive value="0" />
+													<xs:maxInclusive value="100" />
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf:SensorConfiguration xmlns:conf="http://www.siemens.hr/cvc/labsensors/configuration/sensorConfiguration" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.siemens.hr/cvc/labsensors/configuration/sensorConfiguration ../src/hr/siemens/cvc/labsensors/schema/SensorsConfiguration.xsd ">
+  <conf:Sensor>
+    <conf:Name>conf:Name</conf:Name>
+    <conf:Protocal>conf:Protocal</conf:Protocal>
+    <conf:Topic>conf:Topic</conf:Topic>
+    <conf:QPS>0</conf:QPS>
+    <conf:MaxQ>0</conf:MaxQ>
+    <conf:DataElements>
+      <conf:ElementName>conf:ElementName</conf:ElementName>
+      <conf:ElementType>conf:ElementType</conf:ElementType>
+      <conf:valid>0</conf:valid>
+      <conf:invalid>0</conf:invalid>
+    </conf:DataElements>
+    <conf:DataElements>
+      <conf:ElementName>conf:ElementName</conf:ElementName>
+      <conf:ElementType>conf:ElementType</conf:ElementType>
+      <conf:valid>0</conf:valid>
+      <conf:invalid>0</conf:invalid>
+    </conf:DataElements>
+    <conf:DataElements>
+      <conf:ElementName>conf:ElementName</conf:ElementName>
+      <conf:ElementType>conf:ElementType</conf:ElementType>
+      <conf:valid>0</conf:valid>
+      <conf:invalid>0</conf:invalid>
+    </conf:DataElements>
+  </conf:Sensor>
+</conf:SensorConfiguration>

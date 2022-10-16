@@ -1,0 +1,9 @@
+F:\Visual Studio\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe.config
+F:\Visual Studio\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe
+F:\Visual Studio\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.pdb
+F:\Visual Studio\CarShopConsoleApp\bin\Debug\CarClassLibrary.dll
+F:\Visual Studio\CarShopConsoleApp\bin\Debug\CarClassLibrary.pdb
+F:\Visual Studio\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csprojAssemblyReference.cache
+F:\Visual Studio\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.CopyComplete
+F:\Visual Studio\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.exe
+F:\Visual Studio\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.pdb

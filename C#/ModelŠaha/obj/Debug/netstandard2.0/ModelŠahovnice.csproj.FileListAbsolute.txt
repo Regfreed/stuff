@@ -1,0 +1,9 @@
+F:\Visual Studio\ChessBoardModel\bin\Debug\netstandard2.0\ModelŠahovnice.deps.json
+F:\Visual Studio\ChessBoardModel\bin\Debug\netstandard2.0\ModelŠahovnice.dll
+F:\Visual Studio\ChessBoardModel\bin\Debug\netstandard2.0\ModelŠahovnice.pdb
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ModelŠahovnice.csprojAssemblyReference.cache
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ModelŠahovnice.csproj.CoreCompileInputs.cache
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ModelŠahovnice.AssemblyInfoInputs.cache
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ModelŠahovnice.AssemblyInfo.cs
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ModelŠahovnice.dll
+F:\Visual Studio\ChessBoardModel\obj\Debug\netstandard2.0\ModelŠahovnice.pdb

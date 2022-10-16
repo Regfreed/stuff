@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/7WJx/D+lYW9iA2U6WwJSYYWGEkm+BDaAVpfoBMAGk+hvCFwOmTL09CmclhWSx20QVA2q9avjqOLPKRpl+Z2g==",
+  "success": true,
+  "projectFilePath": "F:\\Visual Studio\\ChessGui\\ChessBoardGUI\\ChessBoardModel\\ChessBoardModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matej\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Matej\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
